@@ -143,4 +143,4 @@ src/
 
 ---
 
-Made by [Satyam Gupta](https://github.com/satyamgupta08)
+Made by [Atul Gond](https://github.com/satyamgupta08)
